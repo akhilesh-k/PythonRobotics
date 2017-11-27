@@ -11,7 +11,7 @@ This Turotial will focus on Machine Learning, Computer Vision and Robotic Proces
 ```ruby
 sudo apt-get install python3
 sudo apt-get install python3-pip
-pip install -U -r requirements.txt
+sudo pip3 install -U -r requirements.txt
 # -U will just update the packages if already installed
 ```
 
