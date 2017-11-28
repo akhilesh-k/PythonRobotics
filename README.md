@@ -15,11 +15,11 @@ sudo pip3 install -U -r requirements.txt
 # -U will just update the packages if already installed
 ```
 **Table of Contents:**
-| | Note Book | Description |
-| --- | --- | --- |
-|1| **[Basics](/Basics)** | Getting started with Python. Covers DS and Graphs algorithm.|
-|2| **[Tensorflow](/tensorflow)** | Added Tutorials on Tensorflow Python libray and using API |
 
+|       		| Notebook      | Description  |
+| ------------- |:-------------:|:-----:|
+|1.      |**[Basics](/Basics)** | Getting started with Python. Covers DS and Graphs algorithm. |
+|2.     | **[Tensorflow](/tensorflow)** | Added Tutorials on Tensorflow Python libray and using API |
 
 
 **Usage:**
