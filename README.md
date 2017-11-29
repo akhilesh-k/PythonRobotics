@@ -3,7 +3,11 @@ This repository contains Elementary and Advanced Algorithms, Tutorials and Basic
 <br>
 **Dependencies:**
 1. Python 3.x
-2. Libraries (Install through requirements.txt)
+2. NumPy
+3. Matplotlib
+4. Scikit-Learn
+5. SciPy
+>Libraries (Install through requirements.txt)
 
 This Turotial will focus on Machine Learning, Computer Vision and Robotic Process, Agents, Game Tree Search, Path Planning and other algorithms so to provie you basic and fair idea about Robotics.<br>
 <br>
@@ -25,6 +29,9 @@ sudo pip3 install -U -r requirements.txt
 **Usage:**
 1. Navigate to folders for descripted tasks.
 2. Run Jupyter Notebooks files which contains hands on codes as well as detailed algorithms.
+
+#### Licence
+[MIT](https://github.com/akhilesh-k/PythonRobotics/blob/master/LICENSE)
 
 #### Author
 [Akhilesh Kumar](https://github.com/akhilesh-k), Nov, 2017
