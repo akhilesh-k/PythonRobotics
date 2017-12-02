@@ -1,7 +1,7 @@
 ### Python Robotics
 [![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)](https://github.com/akhilesh-k/Robotics-Specialization#fork-destination-box)
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)](https://github.com/akhilesh-k/PythonRobotics)
 ---
 This repository contains Elementary and Advanced Algorithms, Tutorials and Basic python codes for getting started in Robotics.<br>
 <br>
