@@ -1,4 +1,7 @@
 ### Python Robotics
+[![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+---
 This repository contains Elementary and Advanced Algorithms, Tutorials and Basic python codes for getting started in Robotics.<br>
 <br>
 **Dependencies:**
