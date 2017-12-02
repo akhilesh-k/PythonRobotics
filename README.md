@@ -2,7 +2,7 @@
 [![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
 [![GitHub followers](https://img.shields.io/github/followers/akhilesh-k.svg?style=plastic&label=Follow&maxAge=2592000)](https://github.com/akhilesh-k?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/akhilesh-k/PythonRobotics.svg?style=plastic&label=Star&maxAge=2592000)](https://GitHub.com/akhilesh-k/PythonRobotics/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/akhilesh-k/PythonRobotics.svg?style=plastic&label=Fork&maxAge=2592000)](https://GitHub.com/akhilesh-k/PythonRobotics/network/)
+[![GitHub forks](https://img.shields.io/github/forks/akhilesh-k/PythonRobotics.svg?style=plastic&label=Fork&maxAge=2592000)](https://GitHub.com/akhilesh-k/PythonRobotics/fork/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![HitCount](http://hits.dwyl.io/akhilesh-k/PythonRobotics.svg)](http://hits.dwyl.io/akhilesh-k/PythonRobotics)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/akhilesh-k/PythonRobotics/graphs/commit-activity)
