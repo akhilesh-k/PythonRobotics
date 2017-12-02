@@ -1,7 +1,12 @@
 ### Python Robotics
 [![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)](https://github.com/akhilesh-k/PythonRobotics)
+[![GitHub followers](https://img.shields.io/github/followers/akhilesh-k.svg?style=plastic&label=Follow&maxAge=2592000)](https://github.com/akhilesh-k?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/akhilesh-k/PythonRobotics.svg?style=plastic&label=Star&maxAge=2592000)](https://GitHub.com/akhilesh-k/PythonRobotics/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/akhilesh-k/PythonRobotics.svg?style=plastic&label=Fork&maxAge=2592000)](https://GitHub.com/akhilesh-k/PythonRobotics/network/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![HitCount](http://hits.dwyl.io/akhilesh-k/PythonRobotics.svg)](http://hits.dwyl.io/akhilesh-k/PythonRobotics)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/akhilesh-k/PythonRobotics/graphs/commit-activity)
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ---
 This repository contains Elementary and Advanced Algorithms, Tutorials and Basic python codes for getting started in Robotics.<br>
 <br>
@@ -28,6 +33,7 @@ sudo pip3 install -U -r requirements.txt
 | ------------- |:-------------:|:-----:|
 |1.      |**[Basics](/Basics)** | Getting started with Python. Covers DS and Graphs algorithm. |
 |2.     | **[Tensorflow](/tensorflow)** | Added Tutorials on Tensorflow Python libray and using API |
+|3.     | **[Path Planning](/pathplanning)** | Added Tutorials on Python implementationof Path Planning Algorithms |
 
 
 **Usage:**
@@ -40,3 +46,4 @@ sudo pip3 install -U -r requirements.txt
 #### Author
 [Akhilesh Kumar](https://github.com/akhilesh-k), Nov, 2017
 
+<p align="center">Contributed With ❤ by Akhilesh</p>
