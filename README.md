@@ -45,5 +45,6 @@ sudo pip3 install -U -r requirements.txt
 
 #### Author
 [Akhilesh Kumar](https://github.com/akhilesh-k), Nov, 2017
+[Shikhar Srivastava](https://github.com/cyber-demon), Dec, 2017
 
 <p align="center">Contributed With ❤ by Akhilesh</p>
