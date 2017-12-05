@@ -39,6 +39,8 @@ sudo pip3 install -U -r requirements.txt
 **Usage:**
 1. Navigate to folders for descripted tasks.
 2. Run Jupyter Notebooks files which contains hands on codes as well as detailed algorithms.
+![Happy Robotics](https://github.com/akhilesh-k/PythonRobotics/blob/master/pythonrobotics.png "Happy Robotics")
+
 
 #### Licence
 [MIT](https://github.com/akhilesh-k/PythonRobotics/blob/master/LICENSE)
