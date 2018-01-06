@@ -35,7 +35,6 @@ sudo pip3 install -U -r requirements.txt
 |2.     | **[Tensorflow](/tensorflow)** | Added Tutorials on Tensorflow Python libray and using API |
 |3.     | **[Path Planning](/pathplanning)** | Added Tutorials on Python implementationof Path Planning Algorithms |
 
-
 **Usage:**
 1. Navigate to folders for descripted tasks.
 2. Run Jupyter Notebooks files which contains hands on codes as well as detailed algorithms.<br>
